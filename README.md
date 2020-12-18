@@ -17,7 +17,7 @@ This project is a would not have been possible without following dependices
 
 ## Resources and Licenses
 
-The resources used in this project are free to use commercially and nom- commercially. Those are
+The resources used in this project are free to use commercially and non-commercially. Those are
 -  [MIT Medical](https://medical.mit.edu/community/sleep/resources)
 -  [Audionautix](https://audionautix.com/)
 
