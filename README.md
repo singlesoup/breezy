@@ -1,5 +1,5 @@
 # breezy
-![Logo](https://drive.google.com/uc?export=view&id=1Qx7hiqwS6waxVQlYYCPCWA6sBgo2Iw3Z)
+![](https://drive.google.com/uc?export=view&id=1Qx7hiqwS6waxVQlYYCPCWA6sBgo2Iw3Z)
 
 It's a simple meditation app, which contains simple breathing routines. There are three kinds of routines, for you to explore ,ranging from Guided, UnGuided and Timer only.
 
