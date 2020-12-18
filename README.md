@@ -23,4 +23,4 @@ The resources used in this project are free to use commercially and non-commerci
 
 ## License
 
-Himanshu Nawalkar grants you an irrevocable, nonexclusive, copyright license to copy, modify and use code from breezy for free, including for commercial purposes, with or without permission or attributing.
+Copyright © by Himanshu Nawalkar, grants you an irrevocable, nonexclusive, copyright license to copy, modify and use code from breezy for free, including for commercial purposes, with or without permission or attributing.
