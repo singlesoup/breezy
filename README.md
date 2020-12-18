@@ -3,6 +3,9 @@
 
 It's a simple meditation app, which contains simple breathing routines. There are three kinds of routines, for you to explore ,ranging from Guided, UnGuided and Timer only.
 
+## Screenshots
+
+
 ## Dependencies
 
 This project is a would not have been possible without following dependices
@@ -15,8 +18,8 @@ This project is a would not have been possible without following dependices
 ## Resources and Licenses
 
 The resources used in this project are free to use commercially and nom- commercially. Those are
-- MIT Medical ()[https://medical.mit.edu/community/sleep/resources]
-- Audionautix ()[https://audionautix.com/]
+- MIT Medical !()[https://medical.mit.edu/community/sleep/resources]
+- Audionautix !()[https://audionautix.com/]
 
 ## License
 
