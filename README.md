@@ -4,12 +4,7 @@
 It's a simple meditation app, which contains simple breathing routines. There are three kinds of routines, for you to explore ,ranging from Guided, UnGuided and Timer only.
 
 ## Screenshots
-![home](https://drive.google.com/uc?export=view&id=1YmGIj9d5WJUsibvussWm8ux0NNfOEM5B =100x20) 
-![settings](https://drive.google.com/uc?export=view&id=1eVXltUm61kYadF5DQTVUqAPJ7IKLGCeo =100x20) 
-![content](https://drive.google.com/uc?export=view&id=1d2fngj-Yew6B77v9V-jPRgltJAZ1ntVF =100x20) 
-![meditate](https://drive.google.com/uc?export=view&id=1IZymQOrxRCW9edJ9IpDNVqQbuovyOb1T =100x20) 
-
-
+<img src="https://drive.google.com/uc?export=view&id=1YmGIj9d5WJUsibvussWm8ux0NNfOEM5B" width="200" height="400" /> <img src="https://drive.google.com/uc?export=view&id=1eVXltUm61kYadF5DQTVUqAPJ7IKLGCeo" width="200" height="400" /> <img src="https://drive.google.com/uc?export=view&id=1d2fngj-Yew6B77v9V-jPRgltJAZ1ntVF" width="200" height="400" /> <img src="https://drive.google.com/uc?export=view&id=1IZymQOrxRCW9edJ9IpDNVqQbuovyOb1T" width="200" height="400" />
 
 ## Dependencies
 
