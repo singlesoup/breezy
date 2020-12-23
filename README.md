@@ -1,7 +1,7 @@
 
 <p align="center">
 	<a href="https://drive.google.com/file/d/10DTVbcVL7UdoG1f1Texcr9eOV6_JMaRY/view?usp=sharing" alt="Download the apk">
-		<img src="breezyposter.png" width="380" />
+		<img src="demo/breezyposter.png" width="380" />
 	</a>
 </p>
 <p align="center" style="bold"><b>It's a simple meditation app, which contains simple breathing routines. There are three kinds of routines, for you to explore, ranging from Guided, Unguided and Timer only.</b></p>
@@ -11,7 +11,7 @@
 <img src ="https://www.svgrepo.com/show/98947/download.svg" width="20" height="20" /> [Download apk](https://drive.google.com/file/d/10DTVbcVL7UdoG1f1Texcr9eOV6_JMaRY/view?usp=sharing)
 
 ## Screenshots
-<img src="homeScreen.jpg" width="200" height="400" /> <img src="settings.jpg" width="200" height="400" /> <img src="dialog.jpg" width="200" height="400" /> <img src="animationScreen.jpg" height="400" />
+<img src="demo/homeScreen.jpg" width="200" height="400" /> <img src="demo/settings.jpg" width="200" height="400" /> <img src="demo/dialog.jpg" width="200" height="400" /> <img src="demo/animationScreen.jpg" height="400" />
 
 ## Dependencies
 
