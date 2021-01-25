@@ -15,7 +15,7 @@
 
 ## Dependencies
 
-This project is a would not have been possible without following dependices
+This project is a would not have been possible without following dependencies
 - assets_audio_player: ^2.0.13+1
 - chips_choice: ^2.0.1
 - pausable_timer: ^0.1.0+2
